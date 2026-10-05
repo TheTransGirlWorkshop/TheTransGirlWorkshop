@@ -6,6 +6,7 @@
 
 **Building useful, weird and creative things one project at a time.**
 
+[![Website](https://img.shields.io/badge/Official%20Website-The%20Trans%20Girl%20Workshop-9F74FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://thetransgirlworkshop.github.io)
 [![itch.io](https://img.shields.io/badge/itch.io-The%20Trans%20Girl%20Workshop-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://the-trans-girl-workshop.itch.io)
 [![Game Jolt](https://img.shields.io/badge/Game%20Jolt-The%20Trans%20Girl%20Workshop-2f7f6f?style=for-the-badge&logo=gamejolt&logoColor=white)](https://gamejolt.com/@TheTransGirlWorkshop)
 
@@ -55,8 +56,8 @@ Available through **The Trans Girl Workshop**:
 | --- | --- |
 | 💡 [**EDProLight**](https://github.com/TheTransGirlWorkshop/EDProLight) | A project built for the Elite Dangerous community. |
 | 🐾 [**KawaiiNeko BetterDiscord Theme**](https://github.com/TheTransGirlWorkshop/KawaiiNeko-Better-Discord-Theme) | A custom kawaii/neko-inspired BetterDiscord theme. |
-| 🪤 **TrapDoor** | A Discord anti-bot honeypot and moderation bot currently in development. |
-| 🌐 **The Trans Girl Workshop Website** | Official studio website currently in development. |
+| 🪤 [**TrapDoor**](https://thetransgirlworkshop.github.io/projects/trapdoor.html) | A lightweight Discord anti-bot honeypot and moderation bot. |
+| 🌐 [**The Trans Girl Workshop Website**](https://thetransgirlworkshop.github.io) | Official home for Workshop projects, support and legal pages. |
 
 More projects are always somewhere on the workbench.
 
@@ -92,14 +93,14 @@ More projects are always somewhere on the workbench.
 
 ## 🌐 Find The Trans Girl Workshop
 
+🌐 **Official Website**  
+https://thetransgirlworkshop.github.io
+
 🎮 **itch.io**  
 https://the-trans-girl-workshop.itch.io
 
 🕹️ **Game Jolt**  
 https://gamejolt.com/@TheTransGirlWorkshop
-
-🌐 **Official Website**  
-Currently in development.
 
 ---
 
